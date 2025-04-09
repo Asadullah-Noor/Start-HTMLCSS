@@ -1,0 +1,44 @@
+#traffic{
+    background-color: black;
+    height: 400px;
+    width: 200px;
+      /* margin: 140px; */
+      border-radius:20px;
+      padding: px 0px px 0px ;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+}
+#red{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #ff0000;
+
+}
+#yellow{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #ffff0f;
+    margin: 15px;
+}
+#green{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color:#0df00a ;
+    /* margin:48px */
+    
+}
+#stik{
+    height: 200px;
+    width:30px;
+    background-color: antiquewhite;
+     margin: 100px;
+     margin-left: 39px;
+     position: relative;
+     top: 15px;
+
+}
